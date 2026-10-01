@@ -1,0 +1,4 @@
+[
+  {"id":"home","title":"Inicio","body":"Este es el doc raíz.\nEscribí acá. Se guarda en MongoDB.","updated":1},
+  {"id":"notas","title":"Notas","body":"Lista rápida:\n- Idea\n- Tarea\n- Enlace","updated":2}
+]

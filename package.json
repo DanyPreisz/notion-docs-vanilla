@@ -1,0 +1,10 @@
+{
+  "name": "notion-docs-vanilla",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Notion docs · Node http + JS vanilla · MongoDB Atlas · Cloud Run",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "mongodb": "^6.19.0" }
+}
